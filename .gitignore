@@ -3,8 +3,6 @@
 # API Keys
 # .env
 
-# Backend
-/src/server/config
 
 # dependencies
 /node_modules

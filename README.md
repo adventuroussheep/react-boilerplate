@@ -9,3 +9,5 @@ Please pull/clone this project and run:
 react-router-dom
 @material-ui/core
 axios
+mysql
+express
